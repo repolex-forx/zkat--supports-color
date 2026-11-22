@@ -24,6 +24,20 @@
       ],
       "ast": [
         "aggregate/ast/26ad8d206ad01ba7d6b4ad10d52f8f584aa68ec6/chunk-001.nq.gz"
+      ],
+      "lsp": "aggregate/lsp/26ad8d206ad01ba7d6b4ad10d52f8f584aa68ec6.nq.gz",
+      "dependencies": [
+        {
+          "packageName": "is_ci",
+          "ecosystem": "CARGO",
+          "version": "1.2.0",
+          "githubOrg": "zkat",
+          "githubRepo": "is_ci",
+          "githubCommit": "5e7959455a90cf9a00cafbbd533ea25d747a07d3",
+          "githubTag": "v1.2.0",
+          "githubUrl": "https://github.com/zkat/is_ci",
+          "source": "build_file:Cargo.toml"
+        }
       ]
     }
   ],
