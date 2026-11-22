@@ -1,0 +1,32 @@
+{
+  "manifest_version": "1.0",
+  "org": "zkat",
+  "repo": "supports-color",
+  "versions": [
+    {
+      "commit": "26ad8d206ad01ba7d6b4ad10d52f8f584aa68ec6",
+      "parsed_at": "2026-11-22T09:05:23.611674+00:00",
+      "tag": "v3.0.2",
+      "filetree": "filetree/26ad8d206ad01ba7d6b4ad10d52f8f584aa68ec6.nq.gz",
+      "blobs": [
+        "blob/1b83b43660bc201f6db5af13681a8013a89b63e2.nq.gz",
+        "blob/17dc3b8a02b8ebc15a6a61fc61a7290deb1ade63.nq.gz",
+        "blob/86d5dfee9df526a319a32d4829664296b10a39d4.nq.gz",
+        "blob/48cbe2966fc00e82204a14c38b7365ab3af1c701.nq.gz",
+        "blob/42503d784fe5e6ea49993b9567be1452959e4154.nq.gz",
+        "blob/850f4631d329d487dfac871e08b9d9b6d9fe9594.nq.gz",
+        "blob/9e9c0406eda47106f627aefe93a5b3e1403f04b8.nq.gz",
+        "blob/39fd9ad7fae1fe29900d86a357aafefa8c29e2a3.nq.gz",
+        "blob/c0753b02f341b1d60cc7e6d76192422868fad1f7.nq.gz",
+        "blob/545f464b21a29953bbd564289a029dc157a10477.nq.gz",
+        "blob/96ef6c0b944e24fc22f51f18136cd62ffd5b0b8f.nq.gz",
+        "blob/e52e61f844e85d51e344cdd9a44c274c0d9b3880.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
