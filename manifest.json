@@ -38,7 +38,9 @@
           "githubUrl": "https://github.com/zkat/is_ci",
           "source": "build_file:Cargo.toml"
         }
-      ]
+      ],
+      "repolex": "aggregate/repolex/26ad8d206ad01ba7d6b4ad10d52f8f584aa68ec6/chunk-001.nq.gz",
+      "dep": "dep/26ad8d206ad01ba7d6b4ad10d52f8f584aa68ec6.nq.gz"
     }
   ],
   "commit": "commit/commit.nq.gz",
